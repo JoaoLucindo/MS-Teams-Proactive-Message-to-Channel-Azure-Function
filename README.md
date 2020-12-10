@@ -2,6 +2,9 @@
 
 don't forget to connfigure your local.seetings.json
 
+
+
+```
 {
   "IsEncrypted": false,
   "Values": {
@@ -16,3 +19,5 @@ don't forget to connfigure your local.seetings.json
     "TEAMSAPPID": "<YOURTEAMSAPPID>"
   }
 }
+```
+
